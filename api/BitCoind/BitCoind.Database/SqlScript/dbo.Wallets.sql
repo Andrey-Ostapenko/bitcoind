@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Wallets]
+(
+	[Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY DEFAULT newsequentialid(), 
+	[Name] NVARCHAR(120) NOT NULL, 
+    [Balance] NUMERIC(18, 5) NOT NULL
+)

@@ -3,3 +3,15 @@
 ################################################################################
 
 /api/BitCoind/.vs
+/api/BitCoind/BitCoind.Api/bin/Debug/netcoreapp2.2
+/api/BitCoind/BitCoind.Core/bin/Debug/netcoreapp2.2
+/api/BitCoind/BitCoind.Api/obj
+/api/BitCoind/BitCoind.Core/obj
+/api/BitCoind/BitCoind.Database/bin/Debug/netcoreapp2.2
+/api/BitCoind/BitCoind.Database/obj
+/api/BitCoind/BitCoind.Exceptions/bin/Debug/netcoreapp2.2
+/api/BitCoind/BitCoind.Exceptions/obj
+/api/BitCoind/BitCoind.Logic/bin/Debug/netcoreapp2.2
+/api/BitCoind/BitCoind.Logic/obj
+/api/BitCoind/BitCoind.Tests/bin/Debug/netcoreapp2.2
+/api/BitCoind/BitCoind.Tests/obj
